@@ -1,0 +1,15 @@
+.root {
+  flex-grow: 1;
+}
+a {
+  color: #fff;
+}
+
+.buttons {
+  position: "absolute";
+  right: 10;
+}
+
+a.hover {
+  color: #fff;
+}

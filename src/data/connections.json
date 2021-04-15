@@ -1,0 +1,30 @@
+[
+  {
+    "Title": "Type 2 (Socket Only)",
+    "ID": 25
+  },
+  {
+    "Title": "BS1363 3 Pin 13 Amp",
+    "ID": 3
+  },
+  {
+    "Title": "CCS (Type 2)",
+    "ID": 33
+  },
+  {
+    "Title": "CHAdeMO",
+    "ID": 2
+  },
+  {
+    "Title": "Tesla (Model S/X)",
+    "ID": 30
+  },
+  {
+    "Title": "Tesla Supercharger",
+    "ID": 27
+  },
+  {
+    "Title": "Type 2 (Tethered Connector) ",
+    "ID": 1036
+  }
+]
